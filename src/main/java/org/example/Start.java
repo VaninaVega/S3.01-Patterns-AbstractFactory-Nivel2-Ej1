@@ -1,8 +1,6 @@
 package org.example;
 
 public class Start {
-    public Start() {
-    }
 
     public static void start() {
         AgendaFactory factorySpain = new AgendaFactorySpain();
